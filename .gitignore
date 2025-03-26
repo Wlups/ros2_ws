@@ -2,5 +2,5 @@
 build/
 install/
 log/
-src/turtlebot3/simulations/
+src/turtlebot3_simulations/
 
